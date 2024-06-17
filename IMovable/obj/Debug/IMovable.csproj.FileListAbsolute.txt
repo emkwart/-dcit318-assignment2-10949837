@@ -1,0 +1,7 @@
+C:\Users\emmte\Source\Repos\-dcit318-assignment2-10949837\IMovable\bin\Debug\IMovable.exe.config
+C:\Users\emmte\Source\Repos\-dcit318-assignment2-10949837\IMovable\bin\Debug\IMovable.exe
+C:\Users\emmte\Source\Repos\-dcit318-assignment2-10949837\IMovable\bin\Debug\IMovable.pdb
+C:\Users\emmte\Source\Repos\-dcit318-assignment2-10949837\IMovable\obj\Debug\IMovable.csproj.AssemblyReference.cache
+C:\Users\emmte\Source\Repos\-dcit318-assignment2-10949837\IMovable\obj\Debug\IMovable.csproj.CoreCompileInputs.cache
+C:\Users\emmte\Source\Repos\-dcit318-assignment2-10949837\IMovable\obj\Debug\IMovable.exe
+C:\Users\emmte\Source\Repos\-dcit318-assignment2-10949837\IMovable\obj\Debug\IMovable.pdb
