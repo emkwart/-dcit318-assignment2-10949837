@@ -1,0 +1,7 @@
+C:\Users\emmte\Source\Repos\-dcit318-assignment2-10949837\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\emmte\Source\Repos\-dcit318-assignment2-10949837\Shapes\bin\Debug\Shapes.exe
+C:\Users\emmte\Source\Repos\-dcit318-assignment2-10949837\Shapes\bin\Debug\Shapes.pdb
+C:\Users\emmte\Source\Repos\-dcit318-assignment2-10949837\Shapes\obj\Debug\Shapes.csproj.AssemblyReference.cache
+C:\Users\emmte\Source\Repos\-dcit318-assignment2-10949837\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\emmte\Source\Repos\-dcit318-assignment2-10949837\Shapes\obj\Debug\Shapes.exe
+C:\Users\emmte\Source\Repos\-dcit318-assignment2-10949837\Shapes\obj\Debug\Shapes.pdb
