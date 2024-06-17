@@ -1,0 +1,7 @@
+C:\Users\emmte\Source\Repos\-dcit318-assignment2-10949837\Animal\bin\Debug\Animal.exe.config
+C:\Users\emmte\Source\Repos\-dcit318-assignment2-10949837\Animal\bin\Debug\Animal.exe
+C:\Users\emmte\Source\Repos\-dcit318-assignment2-10949837\Animal\bin\Debug\Animal.pdb
+C:\Users\emmte\Source\Repos\-dcit318-assignment2-10949837\Animal\obj\Debug\Animal.csproj.AssemblyReference.cache
+C:\Users\emmte\Source\Repos\-dcit318-assignment2-10949837\Animal\obj\Debug\Animal.csproj.CoreCompileInputs.cache
+C:\Users\emmte\Source\Repos\-dcit318-assignment2-10949837\Animal\obj\Debug\Animal.exe
+C:\Users\emmte\Source\Repos\-dcit318-assignment2-10949837\Animal\obj\Debug\Animal.pdb
